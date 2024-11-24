@@ -1,4 +1,5 @@
 @extends('layouts.app')
+{{-- Extend dari layout --}}
 
 @section('content')
     <div class="container mx-auto mt-8">
